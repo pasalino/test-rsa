@@ -9,6 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "node-rsa": "^0.4.2",
+    "node-rsa": "^0.4.2"
   }
 }
